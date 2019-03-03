@@ -82,3 +82,20 @@ h2 {
 .about {
   font-family: 'Fjalla One', sans-serif;
 }
+
+@media (max-width: 750px) {
+  .footer-blurb {
+  text-align: left;
+  }
+}
+.modal {
+  font-family: 'Fjalla One', sans-serif;
+}
+h2 span {
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: bold;
+  color: #dddddd;
+}
+::selection {
+  background-color: #f84342
+}
