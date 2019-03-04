@@ -35,7 +35,10 @@
 
 .links {
   padding-top: 26px;
+
 }
+
+
 
 .links a {
   color: black;
@@ -57,6 +60,8 @@ h1 {
  font-family: 'Fjalla One', sans-serif;
   font-weight: bold;
 
+
+
   
 }
 h2 {
@@ -66,7 +71,7 @@ h2 {
   
 }
 .next-quote {
-  color: #f84342;
+  color: #8C0000;
   font-family: 'Fjalla One', sans-serif;
   font-size: 20px;
 }
@@ -81,6 +86,9 @@ h2 {
 }
 .about {
   font-family: 'Fjalla One', sans-serif;
+  font-size: 25px;
+  padding-bottom: 5px;
+  
 }
 
 @media (max-width: 750px) {
@@ -98,4 +106,11 @@ h2 span {
 }
 ::selection {
   background-color: #f84342
+}
+
+p {
+  font-family: 'Fjalla One', sans-serif;
+}
+a {
+  color: #8C0000;
 }
